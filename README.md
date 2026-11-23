@@ -1,5 +1,7 @@
 # # Anteiku
 
+Link to the live deployment:  https://jessessozi-stack.github.io/anteiku-site/
+
 Anteiku is a single-page website built from the free "Nexus System" HTML template by TemplateMo (template 629). It uses plain HTML, CSS and JavaScript only. There is no framework, no build step and no external library, so the project can be opened directly in a browser and hosted on any static host such as GitHub Pages or Netlify.
 
 The page is built around a scroll-stacking effect. As the visitor scrolls, four full-screen sections slide up one on top of the other, and the section underneath shrinks and fades slightly to create a feeling of depth.
