@@ -4,8 +4,6 @@ Anteiku is a single-page website built from the free "Nexus System" HTML templat
 
 The page is built around a scroll-stacking effect. As the visitor scrolls, four full-screen sections slide up one on top of the other, and the section underneath shrinks and fades slightly to create a feeling of depth.
 
-Template source: https://templatemo.com/tm-629-nexus-system
-
 ## Table of contents
 
 1. Project overview
